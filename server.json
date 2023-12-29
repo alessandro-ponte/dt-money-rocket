@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-12-28T12:00:07.229Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-12-28T10:00:07.229Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rockeseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-12-28T10:00:07.229Z"
+    },
+    {
+      "description": "Café",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-29T13:43:27.818Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-29T13:47:06.500Z",
+      "id": 5
+    },
+    {
+      "description": "Salário",
+      "price": 1000,
+      "category": "Remuneração",
+      "type": "income",
+      "createdAt": "2023-12-29T13:56:03.275Z",
+      "id": 6
+    }
+  ]
+}
